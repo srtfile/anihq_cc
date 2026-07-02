@@ -15,12 +15,12 @@ import time
 from pathlib import Path
 
 try:
-    import requests
+    from curl_cffi import requests as crequests
     from bs4 import BeautifulSoup
 except ImportError:
     import subprocess
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "beautifulsoup4", "-q"])
-    import requests
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "curl_cffi", "beautifulsoup4", "-q"])
+    from curl_cffi import requests as crequests
     from bs4 import BeautifulSoup
 
 # ── All paths relative to script location ───────────────────
@@ -34,13 +34,8 @@ ERROR_FILE     = BASE_DIR / "anihq_error_faced_url_list.txt"
 BATCH_SIZE = 500
 DELAY      = 1.2
 
-SESSION = requests.Session()
+SESSION = crequests.Session(impersonate="chrome120")
 SESSION.headers.update({
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
     "Accept-Language": "en-US,en;q=0.9",
 })
 

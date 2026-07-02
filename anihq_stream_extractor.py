@@ -1,10 +1,10 @@
 """
-anihq.cc Batch Extractor - v8.1
-- Reads URLs from anihq_cc.txt + remote anihq2.json
+anihq.cc Batch Extractor - v8.3
+- Loads URLs from anihq_cc.txt + remote anihq2.json (large file support)
 - Processes max 500 URLs per run
-- Auto file rollover when any output file exceeds 500KB
-- GitHub Actions compatible (every 20 min)
+- Auto creates new files when size > 500KB
 """
+
 import re
 import base64
 import sys
@@ -12,6 +12,7 @@ import json
 import time
 import random
 from pathlib import Path
+
 try:
     from curl_cffi import requests as crequests
     from bs4 import BeautifulSoup
@@ -21,22 +22,20 @@ except ImportError:
     from curl_cffi import requests as crequests
     from bs4 import BeautifulSoup
 
-# ── Paths ───────────────────────────────────────────────────
+# ── CONFIG ─────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent
 INPUT_FILE = BASE_DIR / "anihq_cc.txt"
 REMOTE_JSON_URL = "https://raw.githubusercontent.com/srtfile/anihq_cc/refs/heads/main/anihq2.json"
 
-# Main output files (with rollover support)
-OUTPUT_JSON_BASE = "anihq_cc"
-OUTPUT_TXT_BASE = "anihq_cc_readable"
-
-# Log files
-PROCESSED_FILE_BASE = "already_processed_url"
-ERROR_FILE_BASE = "anihq_error_faced_url_list"
-
 BATCH_SIZE = 500
 DELAY = 1.8
 MAX_FILE_SIZE = 500 * 1024  # 500 KB
+
+# Output file bases
+OUTPUT_JSON_BASE = "anihq_cc"
+OUTPUT_TXT_BASE = "anihq_cc_readable"
+PROCESSED_BASE = "already_processed_url"
+ERROR_BASE = "anihq_error_faced_url_list"
 
 # Proxy list
 PROXIES = [
@@ -61,7 +60,7 @@ def get_session():
         SESSION.headers.update({"Accept-Language": "en-US,en;q=0.9"})
     return SESSION
 
-# ── File helpers ─────────────────────────────────────────────
+# ── File Helpers ───────────────────────────────────────────
 def load_set(filepath):
     p = Path(filepath)
     if not p.exists():
@@ -72,23 +71,41 @@ def append_line(filepath, text):
     with open(filepath, "a", encoding="utf-8") as f:
         f.write(text.strip() + "\n")
 
-def get_next_output_file(base_name: str, ext: str = ".txt") -> Path:
-    """Return appropriate file path with rollover if size exceeded."""
+def get_next_output_file(base_name, ext=".txt"):
     counter = 1
     while True:
-        if counter == 1:
-            path = BASE_DIR / f"{base_name}{ext}"
-        else:
-            path = BASE_DIR / f"{base_name}_{counter}{ext}"
-        
-        if not path.exists():
-            return path
-        
-        if path.stat().st_size < MAX_FILE_SIZE:
+        path = BASE_DIR / f"{base_name}{ext}" if counter == 1 else BASE_DIR / f"{base_name}_{counter}{ext}"
+        if not path.exists() or path.stat().st_size < MAX_FILE_SIZE:
             return path
         counter += 1
 
-# ── Parsing helpers ──────────────────────────────────────────
+# ── Remote JSON Loader (Fixed for large file) ─────────────
+def load_remote_urls():
+    print("🔄 Fetching remote large JSON file...")
+    for attempt in range(1, 6):
+        try:
+            session = get_session()
+            r = session.get(REMOTE_JSON_URL, timeout=90)
+            r.raise_for_status()
+            data = r.json()
+            
+            urls = []
+            for item in data:
+                if isinstance(item, dict) and "url" in item:
+                    urls.append(item["url"])
+                elif isinstance(item, str) and item.strip():
+                    urls.append(item.strip())
+            
+            print(f"✅ Successfully loaded {len(urls)} URLs from remote JSON")
+            return urls
+        except Exception as e:
+            print(f"   Attempt {attempt}/5 failed: {e}")
+            if attempt < 5:
+                time.sleep(8 * attempt)
+    print("⚠️ Could not load remote JSON. Continuing with local file only.")
+    return []
+
+# ── Parsing Helpers ────────────────────────────────────────
 def decode_embed_id(raw):
     try:
         parts = raw.split(":", 1)
@@ -121,10 +138,7 @@ def get_cdn_url(voe_url, proxy):
 def extract_m3u8(text):
     found = re.findall(r'https?://[^\s\'"<>]+\.m3u8[^\s\'"<>]*', text)
     for key in ("file", "src", "hls", "source", "url"):
-        found += re.findall(
-            r'["\']?' + key + r'["\']?\s*[:=]\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
-            text, re.IGNORECASE
-        )
+        found += re.findall(r'["\']?' + key + r'["\']?\s*[:=]\s*["\']([^"\']+\.m3u8[^"\']*)["\']', text, re.IGNORECASE)
     seen, out = set(), []
     for u in found:
         u = u.rstrip('.,;:!?)]}\\"\'')
@@ -133,7 +147,7 @@ def extract_m3u8(text):
             out.append(u)
     return out
 
-# ── Core processor ───────────────────────────────────────────
+# ── Core Function ──────────────────────────────────────────
 def process_url(page_url, serial, proxy):
     meta = parse_url_meta(page_url)
     print(f"[{serial}] {page_url}")
@@ -152,29 +166,20 @@ def process_url(page_url, serial, proxy):
     time.sleep(random.uniform(1.2, 2.5))
     
     session = get_session()
-    try:
-        r = session.get(page_url, timeout=25, proxies={"http": proxy, "https": proxy})
-        r.raise_for_status()
-    except Exception as e:
-        raise Exception(f"Failed to fetch main page: {str(e)}")
+    r = session.get(page_url, timeout=25, proxies={"http": proxy, "https": proxy})
+    r.raise_for_status()
     
     soup = BeautifulSoup(r.text, "html.parser")
-    buttons = soup.find_all(attrs={"data-embed-id": True})
-    
-    for btn in buttons:
+    for btn in soup.find_all(attrs={"data-embed-id": True}):
         label, voe_url = decode_embed_id(btn.get("data-embed-id", ""))
         if not voe_url:
             continue
         if voe_url not in record["stream_urls"]:
             record["stream_urls"].append(voe_url)
-        
         cdn_url = get_cdn_url(voe_url, proxy)
         if cdn_url and cdn_url not in record["stream_urls"]:
             record["stream_urls"].append(cdn_url)
-        
-        print(f" [{label}]")
-        print(f" voe={voe_url}")
-        print(f" cdn={cdn_url or '(none)'}")
+        print(f" [{label}] voe={voe_url} cdn={cdn_url or '(none)'}")
     
     record["m3u8_urls"] = extract_m3u8(r.text)
     return record
@@ -194,75 +199,55 @@ def format_record(rec):
     lines.append("=" * 84)
     return "\n".join(lines)
 
-# ── Proxy rotation ───────────────────────────────────────────
-def get_next_proxy(current_index):
-    return PROXIES[current_index % len(PROXIES)]
+def get_next_proxy(idx):
+    return PROXIES[idx % len(PROXIES)]
 
-def load_remote_urls():
-    try:
-        session = get_session()
-        r = session.get(REMOTE_JSON_URL, timeout=30)
-        r.raise_for_status()
-        data = r.json()
-        urls = []
-        if isinstance(data, list):
-            for item in data:
-                if isinstance(item, dict) and "url" in item:
-                    urls.append(item["url"])
-                elif isinstance(item, str) and item.strip():
-                    urls.append(item.strip())
-        print(f"Loaded {len(urls)} URLs from remote JSON")
-        return urls
-    except Exception as e:
-        print(f"[WARN] Failed to load remote JSON: {e}")
-        return []
-
-# ── Main ─────────────────────────────────────────────────────
+# ── MAIN ───────────────────────────────────────────────────
 def main():
-    # Load local + remote URLs
-    local_lines = []
+    # Load URLs
+    local_urls = []
     if INPUT_FILE.exists():
-        local_lines = [l.strip() for l in INPUT_FILE.read_text(encoding="utf-8").splitlines() if l.strip()]
+        local_urls = [l.strip() for l in INPUT_FILE.read_text(encoding="utf-8").splitlines() if l.strip()]
     
     remote_urls = load_remote_urls()
-    all_urls = local_lines + remote_urls
+    all_urls = local_urls + remote_urls
     valid_urls = list(dict.fromkeys([u for u in all_urls if "/watch/" in u and u.startswith("http")]))
     
-    skip_set = load_set(get_next_output_file(PROCESSED_FILE_BASE, ".txt")) | load_set(get_next_output_file(ERROR_FILE_BASE, ".txt"))
+    # Get log files
+    processed_path = get_next_output_file(PROCESSED_BASE, ".txt")
+    error_path = get_next_output_file(ERROR_BASE, ".txt")
+    
+    skip_set = load_set(processed_path) | load_set(error_path)
     pending = [u for u in valid_urls if u not in skip_set]
     
-    print("=" * 60)
-    print(f"Total /watch/ URLs : {len(valid_urls)}")
-    print(f"Already done/error : {len(valid_urls) - len(pending)}")
-    print(f"Pending : {len(pending)}")
-    print(f"This batch : {min(BATCH_SIZE, len(pending))}")
-    print("=" * 60)
+    print("=" * 70)
+    print(f"Total URLs     : {len(valid_urls)}")
+    print(f"Pending        : {len(pending)}")
+    print(f"Batch Size     : {min(BATCH_SIZE, len(pending))}")
+    print("=" * 70)
 
     if not pending:
-        print("All URLs already processed.")
+        print("All URLs already processed!")
         return
 
     batch = pending[:BATCH_SIZE]
     
-    # Get output files (with rollover)
-    output_json_path = get_next_output_file(OUTPUT_JSON_BASE, ".json")
-    output_txt_path = get_next_output_file(OUTPUT_TXT_BASE, ".txt")
-    processed_path = get_next_output_file(PROCESSED_FILE_BASE, ".txt")
-    error_path = get_next_output_file(ERROR_FILE_BASE, ".txt")
+    # Output files
+    json_path = get_next_output_file(OUTPUT_JSON_BASE, ".json")
+    txt_path = get_next_output_file(OUTPUT_TXT_BASE, ".txt")
     
-    # Load existing records
+    # Load existing data
     existing = []
-    if output_json_path.exists():
+    if json_path.exists():
         try:
-            existing = json.loads(output_json_path.read_text(encoding="utf-8"))
-        except Exception:
+            existing = json.loads(json_path.read_text(encoding="utf-8"))
+        except:
             existing = []
     
     serial = max((r.get("serial", 0) for r in existing), default=0) + 1
     new_records = []
     new_texts = []
-    ok_count = 0
-    err_count = 0
+    ok_count = err_count = 0
     proxy_index = 0
 
     for url in batch:
@@ -272,12 +257,11 @@ def main():
         
         while attempts < max_attempts and not success:
             proxy = get_next_proxy(proxy_index)
-            print(f" [PROXY] Using {proxy.split('@')[1] if '@' in proxy else proxy}")
+            print(f" [PROXY] {proxy.split('@')[1] if '@' in proxy else proxy}")
             try:
                 rec = process_url(url, serial, proxy)
                 new_records.append(rec)
                 new_texts.append(format_record(rec))
-                
                 append_line(processed_path, url)
                 serial += 1
                 ok_count += 1
@@ -286,7 +270,7 @@ def main():
             except Exception as e:
                 attempts += 1
                 proxy_index += 1
-                print(f" [ERROR] Proxy attempt {attempts} failed: {str(e)}")
+                print(f" [ERROR] {str(e)}")
                 time.sleep(2)
         
         if not success:
@@ -296,22 +280,17 @@ def main():
         else:
             time.sleep(DELAY)
 
-    # Save JSON
-    with open(output_json_path, "w", encoding="utf-8") as f:
+    # Save results
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(existing + new_records, f, indent=2, ensure_ascii=False)
 
-    # Append readable TXT
     if new_texts:
-        with open(output_txt_path, "a", encoding="utf-8") as f:
+        with open(txt_path, "a", encoding="utf-8") as f:
             f.write("\n\n".join(new_texts) + "\n\n")
 
-    remaining = len(pending) - len(batch)
-    print("=" * 60)
-    print("Batch complete.")
-    print(f" OK : {ok_count}")
-    print(f" Errors : {err_count}")
-    print(f" Remaining : {remaining}")
-    print("=" * 60)
+    print("=" * 70)
+    print(f"Batch Finished → OK: {ok_count} | Errors: {err_count}")
+    print("=" * 70)
 
 if __name__ == "__main__":
     main()

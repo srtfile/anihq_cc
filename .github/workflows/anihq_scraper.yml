@@ -23,7 +23,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install curl_cffi beautifulsoup4
 
       - name: Run extractor (500 URLs)
         run: python anihq_stream_extractor.py

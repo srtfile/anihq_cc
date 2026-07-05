@@ -9790,3 +9790,3503 @@ Serial No:1328
 4.stream_url_1 : https://v0e.pw/e/f940ztpvf5am
 ────────────────────────────────────────────────────────────────────────────────────
 
+Serial No:1329
+1.url           : https://anihq.cc/watch/hokuto-no-ken-fist-of-the-north-star-episode-13-english-dubbed/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Hokuto No Ken Fist Of The North Star
+4.stream_url_1 : https://v0e.pw/e/eym5nb1lpntp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1330
+1.url           : https://anihq.cc/watch/hokuto-no-ken-fist-of-the-north-star-episode-13-english-subbed/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Hokuto No Ken Fist Of The North Star
+4.stream_url_1 : https://v0e.pw/e/8mwxqftb2sqd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1331
+1.url           : https://anihq.cc/watch/kami-no-shizuku-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Kami No Shizuku
+4.stream_url_1 : https://v0e.pw/e/gukshbblym5s
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1332
+1.url           : https://anihq.cc/watch/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kamiina Botan Yoeru Sugata Wa Yuri No Hana
+4.stream_url_1 : https://v0e.pw/e/gp3is0o201nc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1333
+1.url           : https://anihq.cc/watch/kami-no-shizuku-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kami No Shizuku
+4.stream_url_1 : https://v0e.pw/e/pccq15sztzbg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1334
+1.url           : https://anihq.cc/watch/tensei-shitara-slime-datta-ken-4th-season-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Tensei Shitara Slime Datta Ken 4Th Season
+4.stream_url_1 : https://v0e.pw/e/aupww15ilfvd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1335
+1.url           : https://anihq.cc/watch/tensei-shitara-slime-datta-ken-4th-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Tensei Shitara Slime Datta Ken 4Th Season
+4.stream_url_1 : https://v0e.pw/e/jttwogsnjpj1
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1336
+1.url           : https://anihq.cc/watch/snowball-earth-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Snowball Earth
+4.stream_url_1 : https://v0e.pw/e/etkkru0u9lf2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1337
+1.url           : https://anihq.cc/watch/snowball-earth-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Snowball Earth
+4.stream_url_1 : https://v0e.pw/e/gey8paw00rym
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1338
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/3jyl2irgtotl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1339
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/esb53u1l0kfl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1340
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/rrys9xtxipqf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1341
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/fizhi81f7dy0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1342
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/lxqrstdr351h
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1343
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/pamrv3xsmjsf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1344
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/nt6nkajcnkrm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1345
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/5hublfe7gnay
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1346
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/pnjykb10oohu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1347
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/2v5xwdifjwbj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1348
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/b1nfmda5ytqt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1349
+1.url           : https://anihq.cc/watch/tianmei-de-yaohen-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Tianmei De Yaohen English Subbed
+4.stream_url_1 : https://v0e.pw/e/69ba3t9yqntn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1350
+1.url           : https://anihq.cc/watch/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2nd-season-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Otonari No Tenshi Sama Ni Itsunomanika Dame Ningen Ni Sareteita Ken 2Nd Season
+4.stream_url_1 : https://v0e.pw/e/qwo2kmqftjri
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1351
+1.url           : https://anihq.cc/watch/zombie-land-saga-yume-ginga-paradise-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Zombie Land Saga Yume Ginga Paradise
+4.stream_url_1 : https://v0e.pw/e/yvevezeofimc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1352
+1.url           : https://anihq.cc/watch/zombie-land-saga-yume-ginga-paradise-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Zombie Land Saga Yume Ginga Paradise
+4.stream_url_1 : https://v0e.pw/e/v0vy3ppgya3a
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1353
+1.url           : https://anihq.cc/watch/kanan-sama-wa-akumade-choroi-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Kanan Sama Wa Akumade Choroi
+4.stream_url_1 : https://v0e.pw/e/qylpueat0h0d
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1354
+1.url           : https://anihq.cc/watch/kobayashi-san-chi-no-maidragon-samishigariya-no-ryuu-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Kobayashi San Chi No Maidragon Samishigariya No Ryuu
+4.stream_url_1 : https://v0e.pw/e/telzpfzwumwe
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1355
+1.url           : https://anihq.cc/watch/given-10th-mix-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Given 10Th Mix
+4.stream_url_1 : https://v0e.pw/e/gmyvhvr5kjej
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1356
+1.url           : https://anihq.cc/watch/yomi-no-tsugai-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Yomi No Tsugai
+4.stream_url_1 : https://v0e.pw/e/x5yvej6tljuv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1357
+1.url           : https://anihq.cc/watch/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Jishou Akuyaku Reijou Na Konyakusha No Kansatsu Kiroku
+4.stream_url_1 : https://v0e.pw/e/cw8tvqwmdtmj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1358
+1.url           : https://anihq.cc/watch/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Jishou Akuyaku Reijou Na Konyakusha No Kansatsu Kiroku
+4.stream_url_1 : https://v0e.pw/e/d7koyiv4wnlo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1359
+1.url           : https://anihq.cc/watch/yi-ren-zhi-xia-6-episode-26-english-subbed/
+2.ep            : 26   Language: Sub
+3.anime/movie   : Yi Ren Zhi Xia 6
+4.stream_url_1 : https://v0e.pw/e/17cuhd8pgbjr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1360
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/5xdargdahuvs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1361
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/hogyowce9bgv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1362
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/wbnibqqpmswn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1363
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/vv9jhsknygx4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1364
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/s9n4emewqgre
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1365
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/welpfebkd0y7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1366
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/fk0fwh0ppjh3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1367
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/t4sads6jf4p7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1368
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/gkvzmt07ikhp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1369
+1.url           : https://anihq.cc/watch/cyberpunk-edgerunners-sdh-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Cyberpunk Edgerunners Sdh English Dubbed
+4.stream_url_1 : https://v0e.pw/e/amr3xtazlxer
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1370
+1.url           : https://anihq.cc/watch/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Mamonogurai No Boukensha Ore Dake Mamono Wo Kuratte Tsuyoku Naru
+4.stream_url_1 : https://v0e.pw/e/bwtkq8ga6dfc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1371
+1.url           : https://anihq.cc/watch/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Mata Korosarete Shimatta No Desu Ne Tantei Sama
+4.stream_url_1 : https://v0e.pw/e/ekrlz4qgrsqc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1372
+1.url           : https://anihq.cc/watch/haibara-kun-no-tsuyokute-seishun-new-game-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Haibara Kun No Tsuyokute Seishun New Game
+4.stream_url_1 : https://v0e.pw/e/ox3e8l75pwun
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1373
+1.url           : https://anihq.cc/watch/awajima-hyakkei-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Awajima Hyakkei
+4.stream_url_1 : https://v0e.pw/e/l6enz9yatedg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1374
+1.url           : https://anihq.cc/watch/reincarnation-no-kaben-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Reincarnation No Kaben
+4.stream_url_1 : https://v0e.pw/e/dpuadfwxqg5l
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1375
+1.url           : https://anihq.cc/watch/kirio-fanclub-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Kirio Fanclub
+4.stream_url_1 : https://v0e.pw/e/6lhxzvjepapn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1376
+1.url           : https://anihq.cc/watch/koori-no-jouheki-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Koori No Jouheki
+4.stream_url_1 : https://v0e.pw/e/ehrdgqzfqzrs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1377
+1.url           : https://anihq.cc/watch/koori-no-jouheki-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Koori No Jouheki
+4.stream_url_1 : https://v0e.pw/e/fqdugbkk6rqy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1378
+1.url           : https://anihq.cc/watch/kill-ao-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Kill Ao
+4.stream_url_1 : https://v0e.pw/e/jytjbyfupxuj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1379
+1.url           : https://anihq.cc/watch/kujima-utaeba-ie-hororo-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kujima Utaeba Ie Hororo
+4.stream_url_1 : https://v0e.pw/e/yonzvogk9cu9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1380
+1.url           : https://anihq.cc/watch/dr-stone-science-future-part-3-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Dr Stone Science Future Part 3
+4.stream_url_1 : https://v0e.pw/e/gxvqahry6kxk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1381
+1.url           : https://anihq.cc/watch/dr-stone-science-future-part-3-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Dr Stone Science Future Part 3
+4.stream_url_1 : https://v0e.pw/e/3b18vldglq6g
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1382
+1.url           : https://anihq.cc/watch/ganso-bandori-chan-episode-37-english-subbed/
+2.ep            : 37   Language: Sub
+3.anime/movie   : Ganso Bandori Chan
+4.stream_url_1 : https://v0e.pw/e/m0obq9fntl3f
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1383
+1.url           : https://anihq.cc/watch/hime-kishi-wa-barbaroi-no-yome-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Hime Kishi Wa Barbaroi No Yome
+4.stream_url_1 : https://v0e.pw/e/4esm0z0dyylg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1384
+1.url           : https://anihq.cc/watch/hime-kishi-wa-barbaroi-no-yome-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Hime Kishi Wa Barbaroi No Yome
+4.stream_url_1 : https://v0e.pw/e/azmgwxhr60zh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1385
+1.url           : https://anihq.cc/watch/koala-enikki-episode-37-english-subbed/
+2.ep            : 37   Language: Sub
+3.anime/movie   : Koala Enikki
+4.stream_url_1 : https://v0e.pw/e/3gdqfaboco27
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1386
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/ytwsu7v8slzs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1387
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/zvxwjfipozeh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1388
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/kuwmmszjwdzh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1389
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/xf2nf3wsf9lu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1390
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/coyoxgczwkg8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1391
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/zetls2cv2z6d
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1392
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/bskddd9l3vvu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1393
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/vietcfyoja5b
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1394
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/s7fx118zyldl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1395
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/jsv20xghmy3b
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1396
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/z7hoxgkq0at3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1397
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Baki Dou Part 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/6jubzalnzcjy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1398
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/dzzpxyv6ewsn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1399
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/1ezbicckqepb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1400
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/mm4niz1ntjpd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1401
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/2flqfrhrlzsf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1402
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/s5tda1v6zunn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1403
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/hbmviok9ueh3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1404
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/xwxkueyswksd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1405
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/gtvntxzfbybs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1406
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jhcbwqrmjziw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1407
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/kcy7c2b3wm1h
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1408
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ljecakcvz1qj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1409
+1.url           : https://anihq.cc/watch/baki-dou-part-2-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Baki Dou Part 2 English Dubbed
+4.stream_url_1 : https://v0e.pw/e/aocpuszoo7w2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1410
+1.url           : https://anihq.cc/watch/22-7-83-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : 22 7 83
+4.stream_url_1 : https://v0e.pw/e/9aaigczxneju
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1411
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-13/
+2.ep            : 13   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zmt49c0wcnjn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1412
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/bayiq30l0rxm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1413
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/oi9ovdtxazuk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1414
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/bclv4swuoxtw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1415
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/kg9cqnbitqw0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1416
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/pcskpssh8axd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1417
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/khzesk1fdvdm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1418
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/rw6eawru18x3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1419
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/pfv8ypsxsgik
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1420
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ybb6qbupo20g
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1421
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/6rhcwii5i6ql
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1422
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/nqopplaxgauy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1423
+1.url           : https://anihq.cc/watch/18if-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : 18If English Dubbed
+4.stream_url_1 : https://v0e.pw/e/hewxkr8ixwde
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1424
+1.url           : https://anihq.cc/watch/0-saiji-start-dash-monogatari-season-2-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : 0 Saiji Start Dash Monogatari Season 2 English Subbed
+4.stream_url_1 : https://v0e.pw/e/oyttv0agots6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1425
+1.url           : https://anihq.cc/watch/wei-miao-rensheng-episode-34-english-subbed/
+2.ep            : 34   Language: Sub
+3.anime/movie   : Wei Miao Rensheng
+4.stream_url_1 : https://v0e.pw/e/icwbn39lohyn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1426
+1.url           : https://anihq.cc/watch/reincarnation-no-kaben-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Reincarnation No Kaben
+4.stream_url_1 : https://v0e.pw/e/dhqt65n2joss
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1427
+1.url           : https://anihq.cc/watch/kirio-fanclub-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Kirio Fanclub
+4.stream_url_1 : https://v0e.pw/e/6bmdhhjvb8pg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1428
+1.url           : https://anihq.cc/watch/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Higeki No Genkyou To Naru Saikyou Gedou Last Boss Joou Wa Tami No Tame Ni Tsukushimasu Season 2
+4.stream_url_1 : https://v0e.pw/e/vwfog3svjzwy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1429
+1.url           : https://anihq.cc/watch/ganbare-nakamura-kun-episode-13-english-subbed/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Ganbare Nakamura Kun
+4.stream_url_1 : https://v0e.pw/e/58tmlvtqnlr7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1430
+1.url           : https://anihq.cc/watch/isekai-nonbiri-nouka-2-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Isekai Nonbiri Nouka 2
+4.stream_url_1 : https://v0e.pw/e/ym2q8gtouags
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1431
+1.url           : https://anihq.cc/watch/ganbare-nakamura-kun-episode-13-english-dubbed/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Ganbare Nakamura Kun
+4.stream_url_1 : https://v0e.pw/e/kyv2zqxyyjyu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1432
+1.url           : https://anihq.cc/watch/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Nigashita Sakana Wa Ookikatta Ga Tsuriageta Sakana Ga Ookisugita Ken
+4.stream_url_1 : https://v0e.pw/e/mluci9g7jnno
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1433
+1.url           : https://anihq.cc/watch/candy-caries-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Candy Caries
+4.stream_url_1 : https://v0e.pw/e/cleiv1rw2lbs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1434
+1.url           : https://anihq.cc/watch/otaku-ni-yasashii-gal-wa-inai-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Otaku Ni Yasashii Gal Wa Inai
+4.stream_url_1 : https://v0e.pw/e/eqzlidz5cnxh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1435
+1.url           : https://anihq.cc/watch/reika-wa-karei-na-boku-no-joou-the-animation-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Reika Wa Karei Na Boku No Joou The Animation
+4.stream_url_1 : https://v0e.pw/e/ahurfbge6stb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1436
+1.url           : https://anihq.cc/watch/tamon-kun-ima-docchi-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Tamon Kun Ima Docchi
+4.stream_url_1 : https://v0e.pw/e/putzyhbpr9qi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1437
+1.url           : https://anihq.cc/watch/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-2nd-season-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Saikyou No Ousama Nidome No Jinsei Wa Nani Wo Suru 2Nd Season
+4.stream_url_1 : https://v0e.pw/e/ytc97tc50k7b
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1438
+1.url           : https://anihq.cc/watch/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Rezero Kara Hajimeru Isekai Seikatsu 4Th Season
+4.stream_url_1 : https://v0e.pw/e/fttmxnq1vpeq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1439
+1.url           : https://anihq.cc/watch/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Rezero Kara Hajimeru Isekai Seikatsu 4Th Season
+4.stream_url_1 : https://v0e.pw/e/mcuf4wwvxgeb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1440
+1.url           : https://anihq.cc/watch/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Jidou Hanbaiki Ni Umarekawatta Ore Wa Meikyuu Wo Samayou 3Rd Season
+4.stream_url_1 : https://v0e.pw/e/sys4lh80qil9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1441
+1.url           : https://anihq.cc/watch/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Jidou Hanbaiki Ni Umarekawatta Ore Wa Meikyuu Wo Samayou 3Rd Season
+4.stream_url_1 : https://v0e.pw/e/1iejmqynzu0a
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1442
+1.url           : https://anihq.cc/watch/kanojo-okarishimasu-5th-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kanojo Okarishimasu 5Th Season
+4.stream_url_1 : https://v0e.pw/e/j4nepkthnryj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1443
+1.url           : https://anihq.cc/watch/kanojo-okarishimasu-5th-season-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Kanojo Okarishimasu 5Th Season
+4.stream_url_1 : https://v0e.pw/e/acbboshqilin
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1444
+1.url           : https://anihq.cc/watch/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-ichi-gakki-episode-15-english-subbed/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 4Th Season 2 Nensei Hen Ichi Gakki
+4.stream_url_1 : https://v0e.pw/e/weru9uxkpoab
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1445
+1.url           : https://anihq.cc/watch/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-ichi-gakki-episode-13-english-dubbed/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 4Th Season 2 Nensei Hen Ichi Gakki
+4.stream_url_1 : https://v0e.pw/e/5kzorhuqk047
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1446
+1.url           : https://anihq.cc/watch/ugoku-neko-mukashi-banashi-episode-36-english-subbed/
+2.ep            : 36   Language: Sub
+3.anime/movie   : Ugoku Neko Mukashi Banashi
+4.stream_url_1 : https://v0e.pw/e/ctjrzbq4lzvk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1447
+1.url           : https://anihq.cc/watch/da-dao-du-xing-die-long-bian-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Da Dao Du Xing Die Long Bian
+4.stream_url_1 : https://v0e.pw/e/6qjevtsovfjt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1448
+1.url           : https://anihq.cc/watch/quanzhi-fashi-7-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Quanzhi Fashi 7
+4.stream_url_1 : https://v0e.pw/e/zwaqeegnaumb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1449
+1.url           : https://anihq.cc/watch/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Megami Isekai Tensei Nani Ni Naritai Desu Ka Ore Yuusha No Rokkotsu De
+4.stream_url_1 : https://v0e.pw/e/vzbkp2tikxfl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1450
+1.url           : https://anihq.cc/watch/tadaima-ojamasaremasu-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Tadaima Ojamasaremasu
+4.stream_url_1 : https://v0e.pw/e/vebrpfrb0geh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1451
+1.url           : https://anihq.cc/watch/wan-ren-zhi-shang-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Wan Ren Zhi Shang
+4.stream_url_1 : https://v0e.pw/e/ayoeowfn6l84
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1452
+1.url           : https://anihq.cc/watch/hidarikiki-no-eren-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Hidarikiki No Eren
+4.stream_url_1 : https://v0e.pw/e/hlh10bfhegvw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1453
+1.url           : https://anihq.cc/watch/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Class De 2 Banme Ni Kawaii Onnanoko To Tomodachi Ni Natta
+4.stream_url_1 : https://v0e.pw/e/gxqxjtdw1azm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1454
+1.url           : https://anihq.cc/watch/marriagetoxin-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Marriagetoxin
+4.stream_url_1 : https://v0e.pw/e/8s1imrg8mlqr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1455
+1.url           : https://anihq.cc/watch/aishiteru-game-wo-owarasetai-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Aishiteru Game Wo Owarasetai
+4.stream_url_1 : https://v0e.pw/e/oaqjzkqsjko5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1456
+1.url           : https://anihq.cc/watch/marriagetoxin-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Marriagetoxin
+4.stream_url_1 : https://v0e.pw/e/0fanri0fufbc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1457
+1.url           : https://anihq.cc/watch/replica-datte-koi-wo-suru-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Replica Datte Koi Wo Suru
+4.stream_url_1 : https://v0e.pw/e/rwbhahmxnxf3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1458
+1.url           : https://anihq.cc/watch/aishiteru-game-wo-owarasetai-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Aishiteru Game Wo Owarasetai
+4.stream_url_1 : https://v0e.pw/e/jz1uxlotq2ii
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1459
+1.url           : https://anihq.cc/watch/isekai-no-sata-wa-shachiku-shidai-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Isekai No Sata Wa Shachiku Shidai
+4.stream_url_1 : https://v0e.pw/e/zylll6kbtrgj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1460
+1.url           : https://anihq.cc/watch/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Higeki No Genkyou To Naru Saikyou Gedou Last Boss Joou Wa Tami No Tame Ni Tsukushimasu Season 2
+4.stream_url_1 : https://v0e.pw/e/u9gueuhduf4n
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1461
+1.url           : https://anihq.cc/watch/lamour-fou-de-lautomate-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Lamour Fou De Lautomate
+4.stream_url_1 : https://v0e.pw/e/l19xmutsffqj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1462
+1.url           : https://anihq.cc/watch/cheng-huang-lu-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Cheng Huang Lu
+4.stream_url_1 : https://v0e.pw/e/5te1wikbe8io
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1463
+1.url           : https://anihq.cc/watch/hyakki-yakou-shou-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Hyakki Yakou Shou
+4.stream_url_1 : https://v0e.pw/e/klxt4qrqkwfe
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1464
+1.url           : https://anihq.cc/watch/wan-ren-zhi-shang-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Wan Ren Zhi Shang
+4.stream_url_1 : https://v0e.pw/e/volddynam8fk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1465
+1.url           : https://anihq.cc/watch/wan-ren-zhi-shang-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Wan Ren Zhi Shang
+4.stream_url_1 : https://v0e.pw/e/g6lbsmoofsqq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1466
+1.url           : https://anihq.cc/watch/wan-ren-zhi-shang-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Wan Ren Zhi Shang
+4.stream_url_1 : https://v0e.pw/e/vsxa6te6wlxh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1467
+1.url           : https://anihq.cc/watch/liar-game-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Liar Game
+4.stream_url_1 : https://v0e.pw/e/0iyzemossoow
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1468
+1.url           : https://anihq.cc/watch/liar-game-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Liar Game
+4.stream_url_1 : https://v0e.pw/e/7mw1ezi3iyqo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1469
+1.url           : https://anihq.cc/watch/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ponkotsu Fuuki Iin To Skirt Take Ga Futekisetsu Na Jk No Hanashi
+4.stream_url_1 : https://v0e.pw/e/nprfeggpitta
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1470
+1.url           : https://anihq.cc/watch/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Ponkotsu Fuuki Iin To Skirt Take Ga Futekisetsu Na Jk No Hanashi
+4.stream_url_1 : https://v0e.pw/e/uh4cnza2v8wv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1471
+1.url           : https://anihq.cc/watch/isekai-nonbiri-nouka-2-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Isekai Nonbiri Nouka 2
+4.stream_url_1 : https://v0e.pw/e/fcxions1suvw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1472
+1.url           : https://anihq.cc/watch/tongari-boushi-no-atelier-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Tongari Boushi No Atelier
+4.stream_url_1 : https://v0e.pw/e/d8alhrdwvq6b
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1473
+1.url           : https://anihq.cc/watch/tongari-boushi-no-atelier-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Tongari Boushi No Atelier
+4.stream_url_1 : https://v0e.pw/e/tzsuxpqp9umc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1474
+1.url           : https://anihq.cc/watch/kenki-virgo-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Kenki Virgo
+4.stream_url_1 : https://v0e.pw/e/lydrmwzvsntz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1475
+1.url           : https://anihq.cc/watch/kenki-virgo-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Kenki Virgo
+4.stream_url_1 : https://v0e.pw/e/y2wlrxkhxgzt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1476
+1.url           : https://anihq.cc/watch/mahou-no-shimai-luluttolilly-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Mahou No Shimai Luluttolilly
+4.stream_url_1 : https://v0e.pw/e/cnqvgcoblplk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1477
+1.url           : https://anihq.cc/watch/ookii-onnanoko-wa-suki-desu-ka-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ookii Onnanoko Wa Suki Desu Ka
+4.stream_url_1 : https://v0e.pw/e/owxvrhj4jkl5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1478
+1.url           : https://anihq.cc/watch/ookii-onnanoko-wa-suki-desu-ka-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Ookii Onnanoko Wa Suki Desu Ka
+4.stream_url_1 : https://v0e.pw/e/l20gvvqrv1n7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1479
+1.url           : https://anihq.cc/watch/ingoku-danchi-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ingoku Danchi
+4.stream_url_1 : https://v0e.pw/e/h0yjm39ph6ge
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1480
+1.url           : https://anihq.cc/watch/one-piece-episode-1166-english-subbed/
+2.ep            : 1166   Language: Sub
+3.anime/movie   : One Piece
+4.stream_url_1 : https://v0e.pw/e/l571obc6jfcx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1481
+1.url           : https://anihq.cc/watch/xian-ni-episode-145-english-subbed/
+2.ep            : 145   Language: Sub
+3.anime/movie   : Xian Ni
+4.stream_url_1 : https://v0e.pw/e/jveow1iekdic
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1482
+1.url           : https://anihq.cc/watch/muchuu-no-tou-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Muchuu No Tou
+4.stream_url_1 : https://v0e.pw/e/ndjql3swhkff
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1483
+1.url           : https://anihq.cc/watch/ghost-concert-missing-songs-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ghost Concert Missing Songs
+4.stream_url_1 : https://v0e.pw/e/ssr1jyynaq83
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1484
+1.url           : https://anihq.cc/watch/beyblade-x-episode-127-english-subbed/
+2.ep            : 127   Language: Sub
+3.anime/movie   : Beyblade X
+4.stream_url_1 : https://v0e.pw/e/abofjdendbea
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1485
+1.url           : https://anihq.cc/watch/kuroneko-to-majo-no-kyoushitsu-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Kuroneko To Majo No Kyoushitsu
+4.stream_url_1 : https://v0e.pw/e/oz4e0xb0mdwb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1486
+1.url           : https://anihq.cc/watch/maid-san-wa-taberu-dake-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Maid San Wa Taberu Dake
+4.stream_url_1 : https://v0e.pw/e/0lbqhv4ziyrt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1487
+1.url           : https://anihq.cc/watch/nippon-sangoku-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Nippon Sangoku
+4.stream_url_1 : https://v0e.pw/e/ut2gvx6tksj0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1488
+1.url           : https://anihq.cc/watch/nippon-sangoku-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Nippon Sangoku
+4.stream_url_1 : https://v0e.pw/e/aducfg4yrwrm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1489
+1.url           : https://anihq.cc/watch/diamond-no-ace-act-ii-second-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Diamond No Ace Act Ii Second Season
+4.stream_url_1 : https://v0e.pw/e/bykgn0auzjf9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1490
+1.url           : https://anihq.cc/watch/tsue-to-tsurugi-no-wistoria-season-2-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Tsue To Tsurugi No Wistoria Season 2
+4.stream_url_1 : https://v0e.pw/e/atabeuelb4v4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1491
+1.url           : https://anihq.cc/watch/tsue-to-tsurugi-no-wistoria-season-2-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Tsue To Tsurugi No Wistoria Season 2
+4.stream_url_1 : https://v0e.pw/e/jhagdsuoztba
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1492
+1.url           : https://anihq.cc/watch/yozakura-san-chi-no-daisakusen-2nd-season-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Yozakura San Chi No Daisakusen 2Nd Season
+4.stream_url_1 : https://v0e.pw/e/wljusptxlavr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1493
+1.url           : https://anihq.cc/watch/cheng-he-titong-2-episode-23-english-subbed/
+2.ep            : 23   Language: Sub
+3.anime/movie   : Cheng He Titong 2
+4.stream_url_1 : https://v0e.pw/e/msreu8ppbznf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1494
+1.url           : https://anihq.cc/watch/kai-pai-la-guaishou-da-dianying-episode-9-english-subbed/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Kai Pai La Guaishou Da Dianying
+4.stream_url_1 : https://v0e.pw/e/9nixrl3fznqj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1495
+1.url           : https://anihq.cc/watch/koupen-chan-episode-63-english-subbed/
+2.ep            : 63   Language: Sub
+3.anime/movie   : Koupen Chan
+4.stream_url_1 : https://v0e.pw/e/yf37mbsfnvk5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1496
+1.url           : https://anihq.cc/watch/shen-kong-bian-episode-24-english-subbed/
+2.ep            : 24   Language: Sub
+3.anime/movie   : Shen Kong Bian
+4.stream_url_1 : https://v0e.pw/e/l4wqoagvvuzo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1497
+1.url           : https://anihq.cc/watch/digimon-beatbreak-episode-35-english-subbed/
+2.ep            : 35   Language: Sub
+3.anime/movie   : Digimon Beatbreak
+4.stream_url_1 : https://v0e.pw/e/nyq6a3s0rrhq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1498
+1.url           : https://anihq.cc/watch/meitantei-precure-episode-20-english-subbed/
+2.ep            : 20   Language: Sub
+3.anime/movie   : Meitantei Precure
+4.stream_url_1 : https://v0e.pw/e/hzcufiuf6jm8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1499
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-55/
+2.ep            : 55   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/youfy8hex7td
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1500
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-54/
+2.ep            : 54   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/8up4wsa0gi3z
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1501
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-53/
+2.ep            : 53   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/n6xpj4gouypx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1502
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-52/
+2.ep            : 52   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/pwfkdnu76ezh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1503
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-51/
+2.ep            : 51   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/31hmenfwaqtm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1504
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-50/
+2.ep            : 50   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/hbv6xp7qr0wb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1505
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-49/
+2.ep            : 49   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/caleapypkptz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1506
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-48/
+2.ep            : 48   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/gpggmfs2adia
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1507
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-47/
+2.ep            : 47   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/nsf2ozun2yzv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1508
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-46/
+2.ep            : 46   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/mu6iczrxrrnt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1509
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-45/
+2.ep            : 45   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/nd1k8i2x9gya
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1510
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-44/
+2.ep            : 44   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/rkgj4acbtvbn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1511
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-43/
+2.ep            : 43   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/2beramt3bixi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1512
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-42/
+2.ep            : 42   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/vrhwubccs6rq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1513
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-41/
+2.ep            : 41   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/jqm1w8gadgdr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1514
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-40/
+2.ep            : 40   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/vpytkudiqkiq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1515
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-39/
+2.ep            : 39   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/ntxycrne6bkz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1516
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-38/
+2.ep            : 38   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/1c9x3uz9cito
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1517
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-37/
+2.ep            : 37   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/okkoton8ssyu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1518
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-36/
+2.ep            : 36   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/qf9xvt4sk09g
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1519
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-35/
+2.ep            : 35   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/d9vpeyyc1hye
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1520
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-34/
+2.ep            : 34   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/ut9snezvgaoy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1521
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-33/
+2.ep            : 33   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/jrblvmzdciqc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1522
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-32/
+2.ep            : 32   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/mtmdduyrcz6p
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1523
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-31/
+2.ep            : 31   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/prnhtdudspmp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1524
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-30/
+2.ep            : 30   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/eodgyvb5pbzu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1525
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-29/
+2.ep            : 29   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/na7ma1cwwmgl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1526
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-28/
+2.ep            : 28   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/dn6gn9zl3gr7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1527
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-27/
+2.ep            : 27   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/xfbbjz7b0qfp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1528
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-26/
+2.ep            : 26   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/aq4y3ir8vwic
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1529
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-25/
+2.ep            : 25   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/e8m07kq0zcu8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1530
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-24/
+2.ep            : 24   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/jllh2ijfrtd7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1531
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-23/
+2.ep            : 23   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/bymfv4csjydc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1532
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-22/
+2.ep            : 22   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/xyz75en1xtsx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1533
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-21/
+2.ep            : 21   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/pegeiox2dwgh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1534
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-20/
+2.ep            : 20   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/uk6zidbjihxl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1535
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-19/
+2.ep            : 19   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/z4yeuwr4pjzq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1536
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-18/
+2.ep            : 18   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/zyhqhy3amdgi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1537
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-17/
+2.ep            : 17   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/b4lm8rzkyhos
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1538
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-16/
+2.ep            : 16   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/4nwzjam9ludi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1539
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/05elhahzwac0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1540
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/3p2rbv6nytpv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1541
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/jzxepknw17bi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1542
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/onztujzxyivt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1543
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/3lavfdju0eai
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1544
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/4vvai6f78i0s
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1545
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/bqa6jkjgiuvg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1546
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/d7qkkdyyqf46
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1547
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/tzz5eqplir0s
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1548
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/j5xjvl8wfgbs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1549
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/nnkto1qjwjiw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1550
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/xioghlmfdhs5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1551
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/nz5e1tjo0xmc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1552
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/xqr8i8uhjwt6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1553
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Ryuusei No Rockman English Subbed
+4.stream_url_1 : https://v0e.pw/e/s9kdvxlby15p
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1554
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-21/
+2.ep            : 21   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/bbbfnw37xobu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1555
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-20/
+2.ep            : 20   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/ntm7psyoj6xi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1556
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-19/
+2.ep            : 19   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/9fi0hraeeeyi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1557
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-18/
+2.ep            : 18   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/69srhxrkfxbl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1558
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-17/
+2.ep            : 17   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/nnfh18rmaiwb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1559
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-16/
+2.ep            : 16   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/zvjhcrdl6weq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1560
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/cqhc9ghn599a
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1561
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/q5cenkrya08f
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1562
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/0gohkogjrwuj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1563
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/gpce17vaemfg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1564
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/wcppln5qsmpd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1565
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/lti9ggdbtc1q
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1566
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/qupxjr9jajdo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1567
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/xb9syiqzdbgd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1568
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/hchigzrcyuin
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1569
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/cvjv9sg0qypg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1570
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/onshwfknuqxm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1571
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/r6fhovemuhhh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1572
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/nstjvoellrbg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1573
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/vevo06uyjrag
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1574
+1.url           : https://anihq.cc/watch/ryuusei-no-rockman-tribe-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Ryuusei No Rockman Tribe English Subbed
+4.stream_url_1 : https://v0e.pw/e/9izbveadpaxb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1575
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-26/
+2.ep            : 26   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/kkz5b9asajwz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1576
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-25/
+2.ep            : 25   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/cx8hfrkckeo6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1577
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-24/
+2.ep            : 24   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/fiefsckzf9gr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1578
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-23/
+2.ep            : 23   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/jv8kihzbjzjs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1579
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-22/
+2.ep            : 22   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/6om4kzbstxze
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1580
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-21/
+2.ep            : 21   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/yvw3kwxkawcu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1581
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-20/
+2.ep            : 20   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/ckrwjja0dahx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1582
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-19/
+2.ep            : 19   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/00jka19wljhi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1583
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-18/
+2.ep            : 18   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/zabktaj8yn5s
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1584
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-17/
+2.ep            : 17   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/idj9chbwb4aq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1585
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-16/
+2.ep            : 16   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/exonybirzfrm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1586
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/9nulblbtqevf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1587
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/jsjfm2xhvj70
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1588
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/q4tsv2fe4nca
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1589
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-26/
+2.ep            : 26   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ta0sclcvqcn6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1590
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/hciftltpwcas
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1591
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/sfqk29wp0idi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1592
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-25/
+2.ep            : 25   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/yrqxksm1plmo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1593
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/s04kuhyb824r
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1594
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/a8lxqtvoj9cd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1595
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/xggeo28d16hp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1596
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-24/
+2.ep            : 24   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/juzfytxfkspf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1597
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/8wzq5z7gbbsl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1598
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/krkcknb7ocr0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1599
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/jgpkukgxnjmb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1600
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-23/
+2.ep            : 23   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/yhmr3zkbbtmo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1601
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/x33wesf1iqoe
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1602
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/qma3eltheilw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1603
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/8lezpbpzbl4t
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1604
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-22/
+2.ep            : 22   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/vv29z21csuoh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1605
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Subbed
+4.stream_url_1 : https://v0e.pw/e/jf9q6f47gifz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1606
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-21/
+2.ep            : 21   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/sezfgktrzypb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1607
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-20/
+2.ep            : 20   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/g3z70etdxzj5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1608
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-19/
+2.ep            : 19   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/kwdjrmbgiibl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1609
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-18/
+2.ep            : 18   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ynojt2esmyo9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1610
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-17/
+2.ep            : 17   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/t1picu1lvgvz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1611
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-16/
+2.ep            : 16   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/rmp3elwhrqor
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1612
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-15/
+2.ep            : 15   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/qhrit52zfqfb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1613
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-14/
+2.ep            : 14   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/nyiencbeolwm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1614
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-13/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jqqixibmcesd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1615
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/9lvjry1skr4t
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1616
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ppsutbemrc1z
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1617
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/8wtsnwk0girq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1618
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/5suihjjxuqk9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1619
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/mmd6v5g3m3k2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1620
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/69z5hpddynxq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1621
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/qikjxuw4xuka
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1622
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zflxsptqrbbo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1623
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zoypota5zlaw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1624
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/s2vkiwg1k1uv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1625
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/cis5i0puzlve
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1626
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-2nd-gig-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex 2Nd Gig English Dubbed
+4.stream_url_1 : https://v0e.pw/e/nlube3vhdpbj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1627
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-26/
+2.ep            : 26   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/xsc8zt0pzfst
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1628
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-25/
+2.ep            : 25   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/1ashs68llyza
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1629
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-24/
+2.ep            : 24   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/znpg9sv5khlj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1630
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-23/
+2.ep            : 23   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/ohj7y3wz5tmi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1631
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-22/
+2.ep            : 22   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/5si2dcdezut6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1632
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-21/
+2.ep            : 21   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/bxg5omcp1wb9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1633
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-20/
+2.ep            : 20   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/oxmz88ior0fs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1634
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-19/
+2.ep            : 19   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/vi67qk68dfvm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1635
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-18/
+2.ep            : 18   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/mntxtsstazmc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1636
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-17/
+2.ep            : 17   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/wf2ciz8uydio
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1637
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-16/
+2.ep            : 16   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/ybgc6qxeef59
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1638
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/lwgmm1fmh6l2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1639
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/eocyqqwnxey9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1640
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/5r1nb1xxwvsl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1641
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/mulq0dfiqeug
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1642
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/hkfpw0b1lpxv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1643
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/qf4psx15iiie
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1644
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/zzvzhcm19kzy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1645
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/nn4g37eqpe6n
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1646
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/at2rgc5vtrdr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1647
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/invwvlwncqj7
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1648
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/sc6yd4yggaew
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1649
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/mld3girj917n
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1650
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/0w3jeuvf5aer
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1651
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/0isdt5oolqbc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1652
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Subbed
+4.stream_url_1 : https://v0e.pw/e/upyydntgotlv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1653
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-26/
+2.ep            : 26   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/pevgyd95mq78
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1654
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-25/
+2.ep            : 25   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ztnkgiyg0doa
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1655
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-24/
+2.ep            : 24   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/4wzqvc52afyw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1656
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-23/
+2.ep            : 23   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/k09kyumyzrmi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1657
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-22/
+2.ep            : 22   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/eni0rrjpkvr5
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1658
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-21/
+2.ep            : 21   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/lahpzlcpao6c
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1659
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-20/
+2.ep            : 20   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/sx0mso2fteeo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1660
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-19/
+2.ep            : 19   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/hmgj0xmmpcph
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1661
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-18/
+2.ep            : 18   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/16flbpggj8ac
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1662
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-17/
+2.ep            : 17   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jgvcbcsmkltv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1663
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-16/
+2.ep            : 16   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/htbjzbt2zl33
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1664
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-15/
+2.ep            : 15   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/t0upn13q0per
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1665
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-14/
+2.ep            : 14   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/vxab4drasp99
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1666
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-13/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/hkcx63qzlkha
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1667
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/o5erov3ioyhy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1668
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/eb2v59pgfabh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1669
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/m60l2ojr5h2h
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1670
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/sfgueinpkxf4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1671
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/oixq2ivkasjl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1672
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ksraarj2k9zm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1673
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/itpsekpgz37p
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1674
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/8m8bsauehnme
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1675
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/12glehgcxs4r
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1676
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/97mikw8lnkvk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1677
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/lgbjl0a9ujsz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1678
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zbxxaronfuxl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1679
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-solid-state-society-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex Solid State Society
+4.stream_url_1 : https://v0e.pw/e/9jftnrlyg0rk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1680
+1.url           : https://anihq.cc/watch/koukaku-kidoutai-stand-alone-complex-solid-state-society-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Koukaku Kidoutai Stand Alone Complex Solid State Society
+4.stream_url_1 : https://v0e.pw/e/lrm38u3cn2ph
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1681
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-17/
+2.ep            : 17   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/ombqsppf2mkx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1682
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-16/
+2.ep            : 16   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/lzqflt0odwmw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1683
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/7jximzfjkqf6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1684
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/0x8s7hcjuvtj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1685
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/bntl0lmmzx1v
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1686
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/xn9i68p34ckf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1687
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/dj6vhpvsyq2o
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1688
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/rzec4rqtohsn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1689
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/easxqxgfqrtn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1690
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/1sgyp8uu0qgm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1691
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/esiym47ytmxp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1692
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/o8zbuuqybgur
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1693
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/79xcvfahktip
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1694
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/ngmhjzetpxir
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1695
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/ad6plxxpnyub
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1696
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/3bgziombrslo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1697
+1.url           : https://anihq.cc/watch/kage-jitsu-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Kage Jitsu English Subbed
+4.stream_url_1 : https://v0e.pw/e/in5iycphq3rj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1698
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/iwyriietqins
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1699
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/a0y1j8mywvux
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1700
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/unzvlirgm8tc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1701
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/1yo8zfeql98j
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1702
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/cnw8nrgszpvn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1703
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/k5iybbl5gszr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1704
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/c5kbunura6rz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1705
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/1s3ndfpwkjkg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1706
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/tnikkggzf7t9
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1707
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/lsbx8wp2e604
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1708
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/liubdoqisrub
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1709
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Kage Jitsu 2Nd English Subbed
+4.stream_url_1 : https://v0e.pw/e/7yywc96zaxwb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1710
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/h3dngzpob98o
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1711
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/npfaen16ssbk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1712
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/v4opd3tqkjtb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1713
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/1c0bz1ltu38c
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1714
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/idme6gcwaxln
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1715
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/sodlxhncskgd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1716
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/amincef0xcbl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1717
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zzwj7iuuenrj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1718
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/7juknjvmpuym
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1719
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/s30qzapamusd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1720
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ye3czt7znpcd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1721
+1.url           : https://anihq.cc/watch/kage-jitsu-2nd-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Kage Jitsu 2Nd English Dubbed
+4.stream_url_1 : https://v0e.pw/e/f3jzwpgu0r4k
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1722
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-67/
+2.ep            : 67   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/spyqxojzeags
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1723
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-66/
+2.ep            : 66   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/oeiapi8eqrrf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1724
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-65/
+2.ep            : 65   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/1era25yuuchc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1725
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-64/
+2.ep            : 64   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/els8wht39tl6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1726
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-63/
+2.ep            : 63   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/mwdwon3rejrs
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1727
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-62/
+2.ep            : 62   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/wppv9qhjklm6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1728
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-61/
+2.ep            : 61   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/xclskpwysjkx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1729
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-60/
+2.ep            : 60   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ia2shjkzxy2b
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1730
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-59/
+2.ep            : 59   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/vgdovveuzpgt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1731
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-58/
+2.ep            : 58   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/g94qqpsnshis
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1732
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-57/
+2.ep            : 57   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/4nhegxushm6k
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1733
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-56/
+2.ep            : 56   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/grzu5vesvs2o
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1734
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-55/
+2.ep            : 55   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/srnsny2ole0y
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1735
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-54/
+2.ep            : 54   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/pwmkycsnkm3d
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1736
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-53/
+2.ep            : 53   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/wvpk1ljwb0sf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1737
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-52/
+2.ep            : 52   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/4zqloqsbxt12
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1738
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-51/
+2.ep            : 51   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/2rtfodyraylh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1739
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-50/
+2.ep            : 50   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/kj9ba6uwhw7l
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1740
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-49/
+2.ep            : 49   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/gq0fhrlvzffo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1741
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-48/
+2.ep            : 48   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/z9rfqw6l68kh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1742
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-47/
+2.ep            : 47   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/xont9fmhqbkd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1743
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-46/
+2.ep            : 46   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/8wgpcliwz8nm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1744
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-45/
+2.ep            : 45   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zbbkmv12erli
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1745
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-44/
+2.ep            : 44   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/vvh7tfcwdjtz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1746
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-43/
+2.ep            : 43   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jdpymy25lqty
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1747
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-42/
+2.ep            : 42   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/lkegw0bduvex
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1748
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-41/
+2.ep            : 41   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ntdr3ngguygl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1749
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-40/
+2.ep            : 40   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/f62wkhnlemyy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1750
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-39/
+2.ep            : 39   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/c3rneydzzc6d
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1751
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-38/
+2.ep            : 38   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/eofffbgtrdjx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1752
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-37/
+2.ep            : 37   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jvpfppd55szz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1753
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-36/
+2.ep            : 36   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/4pnb0etvem0z
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1754
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-35/
+2.ep            : 35   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/aywxvfndcsrm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1755
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-34/
+2.ep            : 34   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/wgaz2z6ctpjr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1756
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-33/
+2.ep            : 33   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/mypdypdilrjx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1757
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-32/
+2.ep            : 32   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/je9err9pgx2k
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1758
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-31/
+2.ep            : 31   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ggpaxkdhvap6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1759
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-30/
+2.ep            : 30   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/t4olvsgwaqrw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1760
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-29/
+2.ep            : 29   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/2rtszsnyapuh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1761
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-28/
+2.ep            : 28   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/x8ewnshs8tco
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1762
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-27/
+2.ep            : 27   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/lqrd8p2omygu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1763
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-26/
+2.ep            : 26   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/kgb4zkhc81h6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1764
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-25/
+2.ep            : 25   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/i9mstytnwkg0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1765
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-24/
+2.ep            : 24   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/jyruazajm1in
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1766
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-23/
+2.ep            : 23   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/n46bwwyec7kl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1767
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-22/
+2.ep            : 22   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ckdtsltax2ul
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1768
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-21/
+2.ep            : 21   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/nymtg9tnboia
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1769
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-20/
+2.ep            : 20   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/dfmklgiyqnva
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1770
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-19/
+2.ep            : 19   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ab1b3ngw1wow
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1771
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-18/
+2.ep            : 18   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/wn0pljzui4xh
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1772
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-17/
+2.ep            : 17   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/grmkze3j231r
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1773
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-16/
+2.ep            : 16   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/0ubpfb8dyrot
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1774
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-15/
+2.ep            : 15   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/2p8i8ua2yjsj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1775
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-14/
+2.ep            : 14   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/tjhb2elntmnp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1776
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-13/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/rdqw7bgsuyil
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1777
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-12/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/fnvzgjfhcvls
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1778
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-11/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/8bwqeq61i2q4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1779
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-10/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/eigdfp46hwej
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1780
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-9/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/j2vzlugvwjbz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1781
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-8/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ryoeb8oq4hoz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1782
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-7/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/8vq62u8rhsz4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1783
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-6/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/gbvyeaomjxiy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1784
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-5/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/gui7cszo4rzk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1785
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-4/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zdx37wuuofzo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1786
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-3/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/zm4s5tkxqtl6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1787
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-2/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/ew8feb8egrgo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1788
+1.url           : https://anihq.cc/watch/digimon-adventure-english-dubbed-episode-1/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Digimon Adventure English Dubbed
+4.stream_url_1 : https://v0e.pw/e/xriaoj7f8ilj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1789
+1.url           : https://anihq.cc/watch/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Boruto Naruto The Movie Naruto Ga Hokage Ni Natta Hi
+4.stream_url_1 : https://v0e.pw/e/xt9zhkwjmumk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1790
+1.url           : https://anihq.cc/watch/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Boruto Naruto The Movie Naruto Ga Hokage Ni Natta Hi
+4.stream_url_1 : https://v0e.pw/e/4ktdup3rpjuo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1791
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-15/
+2.ep            : 15   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/uf8g7q6kptem
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1792
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-14/
+2.ep            : 14   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/4as14eh51ynx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1793
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-13/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/ipgwwm0ygyvg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1794
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-12/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/f38txs2ndefq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1795
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-11/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/jdcxqzwtnbqj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1796
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-10/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/4yx7najqxzwu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1797
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-9/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/2z7jbgembgjk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1798
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-8/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/jtlnebwc471e
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1799
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-7/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/4r2yudstkquo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1800
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-6/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/c0krgifs2jus
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1801
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-5/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/2jb362pzlrbt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1802
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-4/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/zpa9k82wxt3f
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1803
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-3/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/pkw9yjkj4ccx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1804
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-2/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/jhopicappqdk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1805
+1.url           : https://anihq.cc/watch/biaoren-english-subbed-episode-1/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Biaoren English Subbed
+4.stream_url_1 : https://v0e.pw/e/rnxnslfkwwbp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1806
+1.url           : https://anihq.cc/watch/ze-tian-ji-2026-episode-22-english-subbed/
+2.ep            : 22   Language: Sub
+3.anime/movie   : Ze Tian Ji 2026
+4.stream_url_1 : https://v0e.pw/e/zbqyxrjtlech
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1807
+1.url           : https://anihq.cc/watch/yuusha-no-kuzu-episode-22-english-subbed/
+2.ep            : 22   Language: Sub
+3.anime/movie   : Yuusha No Kuzu
+4.stream_url_1 : https://v0e.pw/e/qbmxw7ogjol2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1808
+1.url           : https://anihq.cc/watch/needy-girl-overdose-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Needy Girl Overdose
+4.stream_url_1 : https://v0e.pw/e/odsfgcxqwaxp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1809
+1.url           : https://anihq.cc/watch/needy-girl-overdose-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Needy Girl Overdose
+4.stream_url_1 : https://v0e.pw/e/xkvmgut0tvvy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1810
+1.url           : https://anihq.cc/watch/ichijouma-mankitsu-gurashi-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Ichijouma Mankitsu Gurashi
+4.stream_url_1 : https://v0e.pw/e/li7j6a2f6xfo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1811
+1.url           : https://anihq.cc/watch/shunkashuutou-daikousha-haru-no-mai-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Shunkashuutou Daikousha Haru No Mai
+4.stream_url_1 : https://v0e.pw/e/xj531gz7sik6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1812
+1.url           : https://anihq.cc/watch/shunkashuutou-daikousha-haru-no-mai-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Shunkashuutou Daikousha Haru No Mai
+4.stream_url_1 : https://v0e.pw/e/weqbhmttgfvg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1813
+1.url           : https://anihq.cc/watch/kami-no-niwatsuki-kusunoki-tei-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kami No Niwatsuki Kusunoki Tei
+4.stream_url_1 : https://v0e.pw/e/qaqzs9wtceai
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1814
+1.url           : https://anihq.cc/watch/yomi-no-tsugai-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Yomi No Tsugai
+4.stream_url_1 : https://v0e.pw/e/t4ve8qyhk47w
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1815
+1.url           : https://anihq.cc/watch/yomi-no-tsugai-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Yomi No Tsugai
+4.stream_url_1 : https://v0e.pw/e/yo0dvwuyziax
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1816
+1.url           : https://anihq.cc/watch/kanan-sama-wa-akumade-choroi-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Kanan Sama Wa Akumade Choroi
+4.stream_url_1 : https://v0e.pw/e/gfke69cggaso
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1817
+1.url           : https://anihq.cc/watch/akane-banashi-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Akane Banashi
+4.stream_url_1 : https://v0e.pw/e/pdlvujkn0wag
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1818
+1.url           : https://anihq.cc/watch/mao-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Mao
+4.stream_url_1 : https://v0e.pw/e/1ix23kjc7ksm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1819
+1.url           : https://anihq.cc/watch/kanan-sama-wa-akumade-choroi-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Kanan Sama Wa Akumade Choroi
+4.stream_url_1 : https://v0e.pw/e/qrfwisssrrli
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1820
+1.url           : https://anihq.cc/watch/akane-banashi-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Akane Banashi
+4.stream_url_1 : https://v0e.pw/e/wap0ldixrnjt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1821
+1.url           : https://anihq.cc/watch/kill-ao-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Kill Ao
+4.stream_url_1 : https://v0e.pw/e/7mo2u2af8aae
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1822
+1.url           : https://anihq.cc/watch/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Saikyou No Shokugyou Wa Yuusha Demo Kenja Demo Naku Kanteishi Kari Rashii Desu Yo
+4.stream_url_1 : https://v0e.pw/e/kvcxpohrv5ww
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1823
+1.url           : https://anihq.cc/watch/meitantei-conan-episode-1203-english-subbed/
+2.ep            : 1203   Language: Sub
+3.anime/movie   : Meitantei Conan
+4.stream_url_1 : https://v0e.pw/e/wxj8qdlrirvw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1824
+1.url           : https://anihq.cc/watch/yowa-yowa-sensei-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Yowa Yowa Sensei
+4.stream_url_1 : https://v0e.pw/e/cfkgnpk6cgxz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1825
+1.url           : https://anihq.cc/watch/mairimashita-iruma-kun-4-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Mairimashita Iruma Kun 4
+4.stream_url_1 : https://v0e.pw/e/agb3pamcb0wm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1826
+1.url           : https://anihq.cc/watch/mairimashita-iruma-kun-4-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Mairimashita Iruma Kun 4
+4.stream_url_1 : https://v0e.pw/e/9dhk8kntzcrc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1827
+1.url           : https://anihq.cc/watch/honzuki-no-gekokujou-ryoushu-no-youjo-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Honzuki No Gekokujou Ryoushu No Youjo
+4.stream_url_1 : https://v0e.pw/e/cejx3gwo3q63
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:1828
+1.url           : https://anihq.cc/watch/honzuki-no-gekokujou-ryoushu-no-youjo-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Honzuki No Gekokujou Ryoushu No Youjo
+4.stream_url_1 : https://v0e.pw/e/hxbevbwuzj6y
+────────────────────────────────────────────────────────────────────────────────────
+

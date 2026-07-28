@@ -53,16 +53,16 @@ PROC_BASE    = "already_processed_url"
 ERR_BASE     = "anihq_error_faced_url_list"
 
 PROXIES = [
-    "http://ygxmhkcc:n3batopqanpg@31.59.20.176:6754",
-    "http://ygxmhkcc:n3batopqanpg@31.56.127.193:7684",
-    "http://ygxmhkcc:n3batopqanpg@45.38.107.97:6014",
-    "http://ygxmhkcc:n3batopqanpg@38.154.203.95:5863",
-    "http://ygxmhkcc:n3batopqanpg@198.105.121.200:6462",
-    "http://ygxmhkcc:n3batopqanpg@64.137.96.74:6641",
-    "http://ygxmhkcc:n3batopqanpg@198.23.243.226:6361",
-    "http://ygxmhkcc:n3batopqanpg@38.154.185.97:6370",
-    "http://ygxmhkcc:n3batopqanpg@142.111.67.146:5611",
-    "http://ygxmhkcc:n3batopqanpg@191.96.254.138:6185",
+    "http://iooshumq:8x072nppng86@31.59.20.176:6754",    # UK - London
+    "http://iooshumq:8x072nppng86@31.56.127.193:7684",   # US - Seattle
+    "http://iooshumq:8x072nppng86@45.38.107.97:6014",    # UK - London
+    "http://iooshumq:8x072nppng86@198.105.121.200:6462",  # UK - London
+    "http://iooshumq:8x072nppng86@64.137.96.74:6641",    # ES - Madrid
+    "http://iooshumq:8x072nppng86@198.23.243.226:6361",  # US - Los Angeles
+    "http://iooshumq:8x072nppng86@38.154.185.97:6370",   # US - Piscataway
+    "http://iooshumq:8x072nppng86@84.247.60.125:6095",   # PL - Warsaw
+    "http://iooshumq:8x072nppng86@142.111.67.146:5611",  # JP - Tokyo
+    "http://iooshumq:8x072nppng86@191.96.254.138:6185",  # US - Los Angeles
 ]
 
 # ══════════════════════════════════════════════════════════

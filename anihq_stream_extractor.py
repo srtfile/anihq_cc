@@ -9,16 +9,17 @@ INPUT  (two sources, both optional):
         - shell-output JSON : {"stdout": "url1\nurl2\n..."}
 
 OUTPUT:
-  • anihq_cc.json / anihq_cc_2.json …        — extracted stream data   (≤700 KB each)
-  • anihq_cc_readable.txt / _2.txt …         — human-readable mirror   (≤700 KB each)
-  • already_processed_url.txt / _2.txt …     — processed URL log       (≤700 KB each)
-  • anihq_error_faced_url_list.txt / _2.txt  — failed URL log          (≤700 KB each)
+  • anihq_cc_readable_2.txt / _3.txt …       — human-readable stream data  (≤5 MB each)
+  • already_processed_url.txt / _2.txt …     — processed URL log           (≤5 MB each)
+  • anihq_error_faced_url_list.txt / _2.txt  — failed URL log              (≤5 MB each)
+
+  NOTE: JSON output is intentionally disabled. Only .txt files are produced.
 """
 
 import re
 import base64
 import sys
-import json
+import json        # still used for parsing the remote URL feed
 import time
 import random
 from pathlib import Path
@@ -42,11 +43,11 @@ REMOTE_URL   = "https://raw.githubusercontent.com/srtfile/anihq_cc/refs/heads/ma
 
 BATCH_SIZE   = 500
 DELAY        = 1.8                  # seconds between successful requests
-MAX_SIZE     = 700 * 1024           # 700 KB — auto-split threshold
+MAX_SIZE     = 5 * 1024 * 1024      # 5 MB — auto-split threshold
 
 # Base names (suffix _2, _3 … added automatically when a file hits MAX_SIZE)
-OUT_JSON     = "anihq_cc"
-OUT_TXT      = "anihq_cc_readable"
+# JSON output is disabled; only .txt files are written.
+OUT_TXT      = "anihq_cc_readable_2"   # first file → anihq_cc_readable_2.txt
 PROC_BASE    = "already_processed_url"
 ERR_BASE     = "anihq_error_faced_url_list"
 
@@ -95,17 +96,30 @@ def append_line(filepath, text: str):
 def get_output_path(base_name: str, ext: str) -> Path:
     """
     Return a Path for *base_name* + *ext* that is still under MAX_SIZE.
-    If the current file is full (≥ MAX_SIZE) the counter is bumped.
-    First file  → base_name.ext
-    Second file → base_name_2.ext
-    Third file  → base_name_3.ext  … and so on.
+    If the current file is ≥ MAX_SIZE the counter is bumped.
+
+    For OUT_TXT ("anihq_cc_readable_2"):
+      First file  → anihq_cc_readable_2.txt
+      Second file → anihq_cc_readable_3.txt
+      Third file  → anihq_cc_readable_4.txt  … etc.
+
+    For other bases (PROC_BASE, ERR_BASE):
+      First file  → base_name.txt
+      Second file → base_name_2.txt  … etc.
     """
-    counter = 1
+    # Detect whether this base already ends with a numeric suffix (_2)
+    # so we can continue the sequence correctly.
+    import re as _re
+    m = _re.match(r'^(.*?)(_(\d+))?$', base_name)
+    stem   = m.group(1)          # e.g. "anihq_cc_readable"
+    start  = int(m.group(3)) if m.group(3) else 1   # e.g. 2, or 1 if no suffix
+
+    counter = start
     while True:
         if counter == 1:
-            path = BASE_DIR / f"{base_name}{ext}"
+            path = BASE_DIR / f"{stem}{ext}"
         else:
-            path = BASE_DIR / f"{base_name}_{counter}{ext}"
+            path = BASE_DIR / f"{stem}_{counter}{ext}"
         if not path.exists() or path.stat().st_size < MAX_SIZE:
             return path
         counter += 1
@@ -389,21 +403,12 @@ def main():
     batch = pending[:BATCH_SIZE]
 
     # ── 3. Resolve output file paths ──────────────────────
-    json_path  = get_output_path(OUT_JSON,  ".json")
     txt_path   = get_output_path(OUT_TXT,   ".txt")
     proc_path  = get_output_path(PROC_BASE, ".txt")
     err_path   = get_output_path(ERR_BASE,  ".txt")
 
-    # Load existing JSON records (so we append, not overwrite)
-    existing: list = []
-    if json_path.exists():
-        try:
-            existing = json.loads(json_path.read_text(encoding="utf-8"))
-        except Exception:
-            existing = []
-
-    serial      = max((r.get("serial", 0) for r in existing), default=0) + 1
-    new_records = []
+    # Derive the next serial from however many lines are in processed-URL logs
+    serial      = len(load_all_processed()) + 1
     new_texts   = []
     ok_count    = err_count = 0
     proxy_idx   = 0
@@ -420,7 +425,6 @@ def main():
             print(f"   [PROXY] {proxy_display}")
             try:
                 rec = process_url(url, serial, proxy)
-                new_records.append(rec)
                 new_texts.append(format_record(rec))
                 append_line(proc_path, url)
                 serial  += 1
@@ -438,26 +442,14 @@ def main():
             append_line(err_path, f"{url} # all proxies failed")
             print("   [FAILED] All proxies exhausted\n")
         else:
-            # Check if output files have crossed the size limit mid-batch
-            json_path = get_output_path(OUT_JSON,  ".json")
+            # Re-resolve paths in case any file crossed the 5 MB split threshold
             txt_path  = get_output_path(OUT_TXT,   ".txt")
             proc_path = get_output_path(PROC_BASE, ".txt")
             err_path  = get_output_path(ERR_BASE,  ".txt")
             time.sleep(DELAY)
 
     # ── 5. Persist results ────────────────────────────────
-    # JSON — resolve path again in case batch pushed us over the limit
-    final_json = get_output_path(OUT_JSON, ".json")
-    existing2: list = []
-    if final_json.exists():
-        try:
-            existing2 = json.loads(final_json.read_text(encoding="utf-8"))
-        except Exception:
-            existing2 = []
-    with open(final_json, "w", encoding="utf-8") as f:
-        json.dump(existing2 + new_records, f, indent=2, ensure_ascii=False)
-
-    # Readable TXT
+    # Only .txt output — no JSON files are written.
     if new_texts:
         final_txt = get_output_path(OUT_TXT, ".txt")
         with open(final_txt, "a", encoding="utf-8") as f:

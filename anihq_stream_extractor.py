@@ -41,7 +41,8 @@ BASE_DIR     = Path(__file__).parent
 INPUT_TXT    = BASE_DIR / "anihq_cc.txt"
 REMOTE_URL   = "https://raw.githubusercontent.com/srtfile/anihq_cc/refs/heads/main/anihq2.json"
 
-BATCH_SIZE   = 500
+import os as _os
+BATCH_SIZE   = int(_os.environ.get("BATCH_SIZE", 500))
 DELAY        = 1.8                  # seconds between successful requests
 MAX_SIZE     = 5 * 1024 * 1024      # 5 MB — auto-split threshold
 

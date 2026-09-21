@@ -1792,3 +1792,1666 @@ Serial No:308
 4.stream_url_1 : https://v0e.pw/e/zzrdqzcpaq67
 ────────────────────────────────────────────────────────────────────────────────────
 
+Serial No:503
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:504
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:505
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:506
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:507
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:508
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:509
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:510
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-4-english-dubbed/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:511
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-3-english-dubbed/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:512
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:513
+1.url           : https://anihq.cc/watch/tate-no-yuusha-no-nariagari-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Tate No Yuusha No Nariagari
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:514
+1.url           : https://anihq.cc/watch/izure-saikyou-no-renkinjutsushi-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Izure Saikyou No Renkinjutsushi
+4.stream_url_1 : https://voe.sx/e/f0cibtrkcfsw
+5.stream_url_2 : https://jamesbornmain.com/e/f0cibtrkcfsw
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:515
+1.url           : https://anihq.cc/watch/dungeon-no-naka-no-hito-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Dungeon No Naka No Hito
+4.stream_url_1 : https://voe.sx/e/i9v35x23da5t
+5.stream_url_2 : https://jamesbornmain.com/e/i9v35x23da5t
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:516
+1.url           : https://anihq.cc/watch/grisaia-phantom-trigger-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Grisaia Phantom Trigger
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:517
+1.url           : https://anihq.cc/watch/izure-saikyou-no-renkinjutsushi-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Izure Saikyou No Renkinjutsushi
+4.stream_url_1 : https://voe.sx/e/xyvuomyfvsn4
+5.stream_url_2 : https://jamesbornmain.com/e/xyvuomyfvsn4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:518
+1.url           : https://anihq.cc/watch/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Salaryman Ga Isekai Ni Ittara Shitennou Ni Natta Hanashi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:519
+1.url           : https://anihq.cc/watch/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Hazure Skill Kinomi Master Skill No Mi Tabetara Shinu Wo Mugen Ni Taberareru You Ni Natta Ken Ni Tsuite
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:520
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:521
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:522
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:523
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:524
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:525
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:526
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:527
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:528
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-4-english-dubbed/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:529
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-3-english-dubbed/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:530
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:531
+1.url           : https://anihq.cc/watch/battle-athletess-daiundoukai-restart-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Battle Athletess Daiundoukai Restart
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:532
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/wutjv0nbyl7p
+5.stream_url_2 : https://jamesbornmain.com/e/wutjv0nbyl7p
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:533
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-26-english-dubbed/
+2.ep            : 26   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:534
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-25-english-dubbed/
+2.ep            : 25   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:535
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-24-english-dubbed/
+2.ep            : 24   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:536
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-23-english-dubbed/
+2.ep            : 23   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:537
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-22-english-dubbed/
+2.ep            : 22   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:538
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-21-english-dubbed/
+2.ep            : 21   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:539
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-20-english-dubbed/
+2.ep            : 20   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:540
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-19-english-dubbed/
+2.ep            : 19   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:541
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-18-english-dubbed/
+2.ep            : 18   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:542
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-17-english-dubbed/
+2.ep            : 17   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:543
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-16-english-dubbed/
+2.ep            : 16   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:544
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-15-english-dubbed/
+2.ep            : 15   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:545
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-14-english-dubbed/
+2.ep            : 14   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:546
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-13-english-dubbed/
+2.ep            : 13   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:547
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:548
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:549
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:550
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:551
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:552
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:553
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:554
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:555
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-4-english-dubbed/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:556
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-3-english-dubbed/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:557
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:558
+1.url           : https://anihq.cc/watch/banjjagbanjjag-catch-tiniping-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Banjjagbanjjag Catch Tiniping
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:559
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/tg5amd5anxdg
+5.stream_url_2 : https://jamesbornmain.com/e/tg5amd5anxdg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:560
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-12-english-dubbed/
+2.ep            : 12   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:561
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-11-english-dubbed/
+2.ep            : 11   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:562
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-10-english-dubbed/
+2.ep            : 10   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:563
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-9-english-dubbed/
+2.ep            : 9   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:564
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:565
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-7-english-dubbed/
+2.ep            : 7   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:566
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-6-english-dubbed/
+2.ep            : 6   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:567
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-5-english-dubbed/
+2.ep            : 5   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:568
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-4-english-dubbed/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:569
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-3-english-dubbed/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:570
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:571
+1.url           : https://anihq.cc/watch/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Zom 100 Zombie Ni Naru Made Ni Shitai 100 No Koto
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:572
+1.url           : https://anihq.cc/watch/the-lord-of-the-rings-rohan-no-tatakai-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : The Lord Of The Rings Rohan No Tatakai
+4.stream_url_1 : https://voe.sx/e/uarxbcvekwnj
+5.stream_url_2 : https://jamesbornmain.com/e/uarxbcvekwnj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:573
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-9-english-subbed/
+2.ep            : 9   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:574
+1.url           : https://anihq.cc/watch/s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : S Rank Monster No Behemoth Dakedo Neko To Machigawarete Elf Musume No Pet Toshite Kurashitemasu
+4.stream_url_1 : https://voe.sx/e/knw8ko3g0zpl
+5.stream_url_2 : https://jamesbornmain.com/e/knw8ko3g0zpl
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:575
+1.url           : https://anihq.cc/watch/shiguang-dailiren-yingdu-pian-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Shiguang Dailiren Yingdu Pian
+4.stream_url_1 : https://voe.sx/e/hrh80hcdekya
+5.stream_url_2 : https://jamesbornmain.com/e/hrh80hcdekya
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:576
+1.url           : https://anihq.cc/watch/dungeon-no-naka-no-hito-episode-4-english-dubbed/
+2.ep            : 4   Language: Dub
+3.anime/movie   : Dungeon No Naka No Hito
+4.stream_url_1 : https://voe.sx/e/n0qyhpzztvxo
+5.stream_url_2 : https://jamesbornmain.com/e/n0qyhpzztvxo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:577
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:578
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-13-english-subbed/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/yufk6grjnibx
+5.stream_url_2 : https://jamesbornmain.com/e/yufk6grjnibx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:579
+1.url           : https://anihq.cc/watch/5-toubun-no-hanayome-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : 5 Toubun No Hanayome
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:580
+1.url           : https://anihq.cc/watch/5-toubun-no-hanayome-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : 5 Toubun No Hanayome
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:581
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/pejcxemzwii0
+5.stream_url_2 : https://jamesbornmain.com/e/pejcxemzwii0
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:582
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/g8vantduoq9r
+5.stream_url_2 : https://jamesbornmain.com/e/g8vantduoq9r
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:583
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/ydrqnto5cgg4
+5.stream_url_2 : https://jamesbornmain.com/e/ydrqnto5cgg4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:584
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/7ckvua1d02yj
+5.stream_url_2 : https://jamesbornmain.com/e/7ckvua1d02yj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:585
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-8-english-subbed/
+2.ep            : 8   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:586
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/zvsvf4sxduvb
+5.stream_url_2 : https://jamesbornmain.com/e/zvsvf4sxduvb
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:587
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:588
+1.url           : https://anihq.cc/watch/dungeon-no-naka-no-hito-episode-3-english-dubbed/
+2.ep            : 3   Language: Dub
+3.anime/movie   : Dungeon No Naka No Hito
+4.stream_url_1 : https://voe.sx/e/4fswts9cwpyk
+5.stream_url_2 : https://jamesbornmain.com/e/4fswts9cwpyk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:589
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:590
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/sqou69zkwnw8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:591
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/ipdpxo3pwuxg
+5.stream_url_2 : https://jamesbornmain.com/e/ipdpxo3pwuxg
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:592
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/zea0q0rggejk
+5.stream_url_2 : https://jamesbornmain.com/e/zea0q0rggejk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:593
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:594
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/v3vajquwaxwx
+5.stream_url_2 : https://jamesbornmain.com/e/v3vajquwaxwx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:595
+1.url           : https://anihq.cc/watch/kizumonogatari-koyomi-vamp-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Kizumonogatari Koyomi Vamp
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:596
+1.url           : https://anihq.cc/watch/hyakushou-kizoku-2nd-season-episode-13-english-subbed/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Hyakushou Kizoku 2Nd Season
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:597
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:598
+1.url           : https://anihq.cc/watch/made-in-abyss-movie-3-fukaki-tamashii-no-reimei-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Made In Abyss Movie 3 Fukaki Tamashii No Reimei
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:599
+1.url           : https://anihq.cc/watch/mushoku-tensei-isekai-ittara-honki-dasu-part-2-eris-no-goblin-toubatsu-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Mushoku Tensei Isekai Ittara Honki Dasu Part 2 Eris No Goblin Toubatsu
+4.stream_url_1 : https://voe.sx/e/eczkn4zudz5l
+5.stream_url_2 : https://jamesbornmain.com/e/eczkn4zudz5l
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:600
+1.url           : https://anihq.cc/watch/overlord-movie-2-shikkoku-no-eiyuu-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Overlord Movie 2 Shikkoku No Eiyuu
+4.stream_url_1 : https://voe.sx/e/k4k80mbidird
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:601
+1.url           : https://anihq.cc/watch/overlord-movie-1-fushisha-no-ou-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Overlord Movie 1 Fushisha No Ou
+4.stream_url_1 : https://voe.sx/e/vnhl81qlk97y
+5.stream_url_2 : https://jamesbornmain.com/e/vnhl81qlk97y
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:602
+1.url           : https://anihq.cc/watch/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru Darou Ka Ii Ova
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:603
+1.url           : https://anihq.cc/watch/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-8-english-dubbed/
+2.ep            : 8   Language: Dub
+3.anime/movie   : Rezero Kara Hajimeru Isekai Seikatsu 3Rd Season
+4.stream_url_1 : https://voe.sx/e/spoybscfctwn
+5.stream_url_2 : https://jamesbornmain.com/e/spoybscfctwn
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:604
+1.url           : https://anihq.cc/watch/overlord-movie-3-sei-oukoku-hen-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Overlord Movie 3 Sei Oukoku Hen
+4.stream_url_1 : https://voe.sx/e/evmsicepggdf
+5.stream_url_2 : https://jamesbornmain.com/e/evmsicepggdf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:605
+1.url           : https://anihq.cc/watch/dungeon-no-naka-no-hito-episode-2-english-dubbed/
+2.ep            : 2   Language: Dub
+3.anime/movie   : Dungeon No Naka No Hito
+4.stream_url_1 : https://voe.sx/e/z1zpgnkifve6
+5.stream_url_2 : https://jamesbornmain.com/e/z1zpgnkifve6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:606
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:607
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Shingeki No Kyojin The Final Season Kanketsu Hen Zenpen
+4.stream_url_1 : https://voe.sx/e/jpxkpb7fe9n1
+5.stream_url_2 : https://jamesbornmain.com/e/jpxkpb7fe9n1
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:608
+1.url           : https://anihq.cc/watch/bleach-the-movie-4-hell-verse-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Bleach The Movie 4 Hell Verse
+4.stream_url_1 : https://voe.sx/e/vqbr6ehahr4a
+5.stream_url_2 : https://jamesbornmain.com/e/vqbr6ehahr4a
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:609
+1.url           : https://anihq.cc/watch/bleach-movie-4-the-hell-verse-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Bleach Movie 4 The Hell Verse
+4.stream_url_1 : https://voe.sx/e/na9rroba527j
+5.stream_url_2 : https://jamesbornmain.com/e/na9rroba527j
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:610
+1.url           : https://anihq.cc/watch/bleach-the-movie-3-fade-to-black-episode-1-english-dubbed/
+2.ep            : 1   Language: Dub
+3.anime/movie   : Bleach The Movie 3 Fade To Black
+4.stream_url_1 : https://www.mp4upload.com/embed-jbbh1jk6gywb.html
+5.stream_url_2 : https://dood.wf/e/pu3wra3xj24y
+6.stream_url_3 : https://alions.pro/v/6ojawustt2ti
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:611
+1.url           : https://anihq.cc/watch/bleach-movie-3-fade-to-black-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Bleach Movie 3 Fade To Black
+4.stream_url_1 : https://www.mp4upload.com/embed-dsl7j0no6ab1.html
+5.stream_url_2 : https://dood.wf/e/fv8mq0edkels
+6.stream_url_3 : https://alions.pro/v/jzd3uepz83u8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:612
+1.url           : https://anihq.cc/watch/steinsgate-fuka-ryouiki-no-deja-vu-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Steinsgate Fuka Ryouiki No Deja Vu
+4.stream_url_1 : https://voe.sx/e/pj23p73subms
+5.stream_url_2 : https://jamesbornmain.com/e/pj23p73subms
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:613
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-8-english-subbed/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/4szb2vmosgbf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:614
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-13-english-subbed/
+2.ep            : 13   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:615
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:616
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:617
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:618
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-9-english-subbed/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:619
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-8-english-subbed/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:620
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:621
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:622
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:623
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:624
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:625
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:626
+1.url           : https://anihq.cc/watch/gintama-4-2017-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Gintama 4 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:627
+1.url           : https://anihq.cc/watch/made-in-abyss-movie-2-hourou-suru-tasogare-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Made In Abyss Movie 2 Hourou Suru Tasogare
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:628
+1.url           : https://anihq.cc/watch/blue-giant-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Blue Giant
+4.stream_url_1 : https://voe.sx/e/muqltypf8idm
+5.stream_url_2 : https://jamesbornmain.com/e/muqltypf8idm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:629
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/mjgw54de08ro
+5.stream_url_2 : https://jamesbornmain.com/e/mjgw54de08ro
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:630
+1.url           : https://anihq.cc/watch/kimetsu-no-yaiba-mugen-ressha-hen-episode-1-english-subbed-2/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Kimetsu No Yaiba Mugen Ressha Hen
+4.stream_url_1 : https://voe.sx/e/prerf5gtnztt
+5.stream_url_2 : https://jamesbornmain.com/e/prerf5gtnztt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:631
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/artgyhe8uyi4
+5.stream_url_2 : https://jamesbornmain.com/e/artgyhe8uyi4
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:632
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/iicx8nsqbave
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:633
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/egaancgbur8r
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:634
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/rf8fehayriqi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:635
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/ltkxqe36q1cz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:636
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/vhno7dls32e1
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:637
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/mrggnhnadwvu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:638
+1.url           : https://anihq.cc/watch/amagami-san-chi-no-enmusubi-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Amagami San Chi No Enmusubi
+4.stream_url_1 : https://voe.sx/e/ercbbgsgjfmt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:639
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/v5oqqjapq5fm
+5.stream_url_2 : https://jamesbornmain.com/e/v5oqqjapq5fm
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:640
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/8tj7tjhajhf6
+5.stream_url_2 : https://jamesbornmain.com/e/8tj7tjhajhf6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:641
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/rrbnqf2cdsdt
+5.stream_url_2 : https://jamesbornmain.com/e/rrbnqf2cdsdt
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:642
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/v1myt0fodifi
+5.stream_url_2 : https://jamesbornmain.com/e/v1myt0fodifi
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:643
+1.url           : https://anihq.cc/watch/arifureta-shokugyou-de-sekai-saikyou-season-3-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Arifureta Shokugyou De Sekai Saikyou Season 3
+4.stream_url_1 : https://voe.sx/e/clcvpsjlj8oe
+5.stream_url_2 : https://jamesbornmain.com/e/clcvpsjlj8oe
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:644
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/knjddxdgcouy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:645
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/q21vasq7qa2d
+5.stream_url_2 : https://jamesbornmain.com/e/q21vasq7qa2d
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:646
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/v7a6znvtx4pf
+5.stream_url_2 : https://jamesbornmain.com/e/v7a6znvtx4pf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:647
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/gzmpalr6hnwv
+5.stream_url_2 : https://jamesbornmain.com/e/gzmpalr6hnwv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:648
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/srn3otmbuyya
+5.stream_url_2 : https://jamesbornmain.com/e/srn3otmbuyya
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:649
+1.url           : https://anihq.cc/watch/mf-ghost-2nd-season-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Mf Ghost 2Nd Season
+4.stream_url_1 : https://voe.sx/e/k7umy7nujc9w
+5.stream_url_2 : https://jamesbornmain.com/e/k7umy7nujc9w
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:650
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/srmukkcc0ijo
+5.stream_url_2 : https://jamesbornmain.com/e/srmukkcc0ijo
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:651
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:652
+1.url           : https://anihq.cc/watch/mononoke-hime-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Mononoke Hime
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:653
+1.url           : https://anihq.cc/watch/perfect-blue-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Perfect Blue
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:654
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/cx7hqn9np6wx
+5.stream_url_2 : https://jamesbornmain.com/e/cx7hqn9np6wx
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:655
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/6dl96tcvi8sc
+5.stream_url_2 : https://jamesbornmain.com/e/6dl96tcvi8sc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:656
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/xvackkqkj8cd
+5.stream_url_2 : https://jamesbornmain.com/e/xvackkqkj8cd
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:657
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/aqpmd21j5gfy
+5.stream_url_2 : https://jamesbornmain.com/e/aqpmd21j5gfy
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:658
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/gbwfbutdks0l
+5.stream_url_2 : https://jamesbornmain.com/e/gbwfbutdks0l
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:659
+1.url           : https://anihq.cc/watch/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Shangri La Frontier Kusoge Hunter Kamige Ni Idoman To Su 2Nd Season
+4.stream_url_1 : https://voe.sx/e/vxpeb2vgmlty
+5.stream_url_2 : https://jamesbornmain.com/e/vxpeb2vgmlty
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:660
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:661
+1.url           : https://anihq.cc/watch/one-piece-gyojin-tou-hen-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : One Piece Gyojin Tou Hen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:662
+1.url           : https://anihq.cc/watch/shin-seiki-evangelion-movie-air-magokoro-wo-kimi-ni-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Shin Seiki Evangelion Movie Air Magokoro Wo Kimi Ni
+4.stream_url_1 : https://voe.sx/e/s30ehbrqffq1
+5.stream_url_2 : https://jamesbornmain.com/e/s30ehbrqffq1
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:663
+1.url           : https://anihq.cc/watch/evangelion-3-01-0-thrice-upon-a-time-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Evangelion 3 01 0 Thrice Upon A Time
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:664
+1.url           : https://anihq.cc/watch/made-in-abyss-movie-3-fukaki-tamashii-no-reimei-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Made In Abyss Movie 3 Fukaki Tamashii No Reimei
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:665
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/xcsuhfenw04q
+5.stream_url_2 : https://jamesbornmain.com/e/xcsuhfenw04q
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:666
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/l3b3jwj9arf6
+5.stream_url_2 : https://jamesbornmain.com/e/l3b3jwj9arf6
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:667
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/3vrh8momj0yr
+5.stream_url_2 : https://jamesbornmain.com/e/3vrh8momj0yr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:668
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-9-english-subbed/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/qj76jrobar12
+5.stream_url_2 : https://jamesbornmain.com/e/qj76jrobar12
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:669
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-8-english-subbed/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/zrxl3xwn6gso
+5.stream_url_2 : https://jamesbornmain.com/e/zrxl3xwn6gso
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:670
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/frxmrinxtkv2
+5.stream_url_2 : https://jamesbornmain.com/e/frxmrinxtkv2
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:671
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/e6jxgnget0w8
+5.stream_url_2 : https://jamesbornmain.com/e/e6jxgnget0w8
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:672
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/2rmyipztetty
+5.stream_url_2 : https://jamesbornmain.com/e/2rmyipztetty
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:673
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/ldtujsf3vagz
+5.stream_url_2 : https://jamesbornmain.com/e/ldtujsf3vagz
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:674
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/dzbfmvmn8gmq
+5.stream_url_2 : https://jamesbornmain.com/e/dzbfmvmn8gmq
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:675
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/eroqd8jszckr
+5.stream_url_2 : https://jamesbornmain.com/e/eroqd8jszckr
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:676
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Part 2
+4.stream_url_1 : https://voe.sx/e/zfpmlko6iroc
+5.stream_url_2 : https://jamesbornmain.com/e/zfpmlko6iroc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:677
+1.url           : https://anihq.cc/watch/haikyuu-movie-gomisuteba-no-kessen-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Haikyuu Movie Gomisuteba No Kessen
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:678
+1.url           : https://anihq.cc/watch/shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Shingeki No Kyojin The Final Season Kanketsu Hen Zenpen
+4.stream_url_1 : https://voe.sx/e/rvqn5gbioxgc
+5.stream_url_2 : https://jamesbornmain.com/e/rvqn5gbioxgc
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:679
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:680
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-66-english-subbed/
+2.ep            : 66   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:681
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-65-english-subbed/
+2.ep            : 65   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:682
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-64-english-subbed/
+2.ep            : 64   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:683
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-63-english-subbed/
+2.ep            : 63   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:684
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-62-english-subbed/
+2.ep            : 62   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:685
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-61-english-subbed/
+2.ep            : 61   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:686
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-60-english-subbed/
+2.ep            : 60   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:687
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-59-english-subbed/
+2.ep            : 59   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:688
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-58-english-subbed/
+2.ep            : 58   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:689
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-57-english-subbed/
+2.ep            : 57   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:690
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-56-english-subbed/
+2.ep            : 56   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:691
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-55-english-subbed/
+2.ep            : 55   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:692
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-110-english-subbed/
+2.ep            : 110   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:693
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-109-english-subbed/
+2.ep            : 109   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:694
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-108-english-subbed/
+2.ep            : 108   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:695
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-107-english-subbed/
+2.ep            : 107   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:696
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-106-english-subbed/
+2.ep            : 106   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:697
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-105-english-subbed/
+2.ep            : 105   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:698
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-104-english-subbed/
+2.ep            : 104   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:699
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-103-english-subbed/
+2.ep            : 103   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:700
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-102-english-subbed/
+2.ep            : 102   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:701
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-101-english-subbed/
+2.ep            : 101   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:702
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-100-english-subbed/
+2.ep            : 100   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:703
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-99-english-subbed/
+2.ep            : 99   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:704
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-98-english-subbed/
+2.ep            : 98   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:705
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-97-english-subbed/
+2.ep            : 97   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:706
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-96-english-subbed/
+2.ep            : 96   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:707
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-95-english-subbed/
+2.ep            : 95   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:708
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-94-english-subbed/
+2.ep            : 94   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:709
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-93-english-subbed/
+2.ep            : 93   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:710
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-92-english-subbed/
+2.ep            : 92   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:711
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-91-english-subbed/
+2.ep            : 91   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:712
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-90-english-subbed/
+2.ep            : 90   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:713
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-89-english-subbed/
+2.ep            : 89   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:714
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-88-english-subbed/
+2.ep            : 88   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:715
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-87-english-subbed/
+2.ep            : 87   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:716
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:717
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-85-english-subbed/
+2.ep            : 85   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:718
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-84-english-subbed/
+2.ep            : 84   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:719
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-83-english-subbed/
+2.ep            : 83   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:720
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-82-english-subbed/
+2.ep            : 82   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:721
+1.url           : https://anihq.cc/watch/legend-of-the-galactic-heroes-episode-81-english-subbed/
+2.ep            : 81   Language: Sub
+3.anime/movie   : Legend Of The Galactic Heroes
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:722
+1.url           : https://anihq.cc/watch/look-back-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Look Back
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:723
+1.url           : https://anihq.cc/watch/gintama-2017-episode-12-english-subbed/
+2.ep            : 12   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:724
+1.url           : https://anihq.cc/watch/gintama-2017-episode-11-english-subbed/
+2.ep            : 11   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:725
+1.url           : https://anihq.cc/watch/gintama-2017-episode-10-english-subbed/
+2.ep            : 10   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:726
+1.url           : https://anihq.cc/watch/gintama-2017-episode-9-english-subbed/
+2.ep            : 9   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:727
+1.url           : https://anihq.cc/watch/gintama-2017-episode-8-english-subbed/
+2.ep            : 8   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:728
+1.url           : https://anihq.cc/watch/gintama-2017-episode-7-english-subbed/
+2.ep            : 7   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:729
+1.url           : https://anihq.cc/watch/gintama-2017-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:730
+1.url           : https://anihq.cc/watch/gintama-2017-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:731
+1.url           : https://anihq.cc/watch/gintama-2017-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:732
+1.url           : https://anihq.cc/watch/gintama-2017-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:733
+1.url           : https://anihq.cc/watch/gintama-2017-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:734
+1.url           : https://anihq.cc/watch/gintama-2017-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Gintama 2017
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:735
+1.url           : https://anihq.cc/watch/one-piece-fan-letter-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : One Piece Fan Letter
+4.stream_url_1 : https://voe.sx/e/zasxhwpx5yhf
+5.stream_url_2 : https://jamesbornmain.com/e/zasxhwpx5yhf
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:736
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/pnnlato1ufbv
+5.stream_url_2 : https://jamesbornmain.com/e/pnnlato1ufbv
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:737
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/3vqzrmriloii
+5.stream_url_2 : https://jamesbornmain.com/e/3vqzrmriloii
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:738
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/tucdjbwtavt3
+5.stream_url_2 : https://jamesbornmain.com/e/tucdjbwtavt3
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:739
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/26renw4oii5a
+5.stream_url_2 : https://jamesbornmain.com/e/26renw4oii5a
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:740
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/lbx5xenk3zuk
+5.stream_url_2 : https://jamesbornmain.com/e/lbx5xenk3zuk
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:741
+1.url           : https://anihq.cc/watch/ao-no-exorcist-yuki-no-hate-hen-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Ao No Exorcist Yuki No Hate Hen
+4.stream_url_1 : https://voe.sx/e/bfyutbi89psj
+5.stream_url_2 : https://jamesbornmain.com/e/bfyutbi89psj
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:742
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:743
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:744
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:745
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:746
+1.url           : https://anihq.cc/watch/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Yarinaoshi Reijou Wa Ryuutei Heika Wo Kouryakuchuu
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:747
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-6-english-subbed/
+2.ep            : 6   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:748
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-5-english-subbed/
+2.ep            : 5   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:749
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-4-english-subbed/
+2.ep            : 4   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:750
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-3-english-subbed/
+2.ep            : 3   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:751
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-2-english-subbed/
+2.ep            : 2   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:752
+1.url           : https://anihq.cc/watch/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Rurouni Kenshin Meiji Kenkaku Romantan Kyoto Douran
+────────────────────────────────────────────────────────────────────────────────────
+
+Serial No:753
+1.url           : https://anihq.cc/watch/doraemon-movie-43-nobita-no-chikyuu-symphony-episode-1-english-subbed/
+2.ep            : 1   Language: Sub
+3.anime/movie   : Doraemon Movie 43 Nobita No Chikyuu Symphony
+────────────────────────────────────────────────────────────────────────────────────
+
